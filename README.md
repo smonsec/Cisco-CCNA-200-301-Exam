@@ -2,6 +2,8 @@
 
 My notes of Cisco CCNA 200-301 Exam preparation course, by [David Bombal](https://www.youtube.com/c/DavidBombal) offered through Udemy. 
 
+> **Warning**: These notes are taken, considering my earlier knowledge of the topics, the difficulty level, and the knowledge, I gained from the other courses, I'm taking along with these. So, use these notes at your own discretion.
+
 
 ---
 
